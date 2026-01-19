@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Christian R. Lascuña</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">An aspiring IT Professional & Tech Enthusiast from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clascuna556171&label=Profile%20views&color=0e75b6&style=flat" alt="clascuna556171" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://christianlascuna.pythonanywhere.com/](https://christianlascuna.pythonanywhere.com/)
 
-- 💬 Ask me about **python, java etc.**
+- 💬 Ask me about **python, java and Tech trends.**
 
 - 📫 How to reach me **c.lascuna.556171@umindanao.edu.ph**
 

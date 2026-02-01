@@ -1,23 +1,51 @@
-<h1 align="center">Hi 👋, I'm Christian R. Lascuña</h1>
-<h3 align="center">An aspiring IT Professional & Tech Enthusiast from Philippines</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clascuna556171&label=Profile%20views&color=0e75b6&style=flat" alt="clascuna556171" /> </p>
+# Hi there, I'm Christian R. Lascuña! 👋
 
-- 👨‍💻 All of my projects are available at [https://christianlascuna.pythonanywhere.com/](https://christianlascuna.pythonanywhere.com/)
+### 👨‍💻 Aspiring IT Professional | Tech Enthusiast | Python & Java Developer
 
-- 💬 Ask me about **python, java and Tech trends.**
-
-- 📫 How to reach me **c.lascuna.556171@umindanao.edu.ph**
-
-- 📄 Know about my experiences [https://christianlascuna.pythonanywhere.com/](https://christianlascuna.pythonanywhere.com/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://christianlascuna.pythonanywhere.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=firefox" alt="Portfolio" />
+  </a>
+  <a href="mailto:c.lascuna.556171@umindanao.edu.ph">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=clascuna556171&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clascuna556171&show_icons=true&locale=en&layout=compact" alt="clascuna556171" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clascuna556171&show_icons=true&locale=en" alt="clascuna556171" /></p>
+---
+
+### 🚀 About Me
+I am an IT student from the **Philippines** passionate about software development and tech trends. I love building web applications and exploring backend technologies.
+
+- 🔭 I’m currently working on **Python and Java projects**.
+- 🌱 I’m currently learning **Advanced Data Structures and Algorithms**.
+- 💬 Ask me about **Python, Java, and Tech Trends**.
+- ⚡ Fun fact: **I love turning coffee into code! ☕**
+
+---
+
+### 🛠️ Languages and Tools
+
+| **Backend & Core** | **Frontend & Design** | **Tools & Database** |
+|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=clascuna556171&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clascuna556171&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Last updated automatically</sub>
+</div>

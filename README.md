@@ -40,8 +40,8 @@ I am an IT student from the **Philippines** passionate about software developmen
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clascuna556171&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clascuna556171&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=clascuna556171&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clascuna556171&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Languages" />
 </div>
 
 <br />

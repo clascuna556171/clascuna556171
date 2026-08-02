@@ -27,7 +27,6 @@
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
 </p>
-
 </div>
 
 ---
@@ -46,9 +45,9 @@
 </td>
 </tr>
 <tr>
-<!-- Left Column: Animated Icon & Identity -->
+<!-- Left Column: High-Tech Cyber Hologram & Identity -->
 <td width="30%" align="center" valign="middle" style="border-right: 1px solid #30363d; padding: 20px;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="AI Robot" width="120" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Cyber Core" width="130" />
   <br><br>
   <code><font color="#58A6FF"><b>c_lascuna@AI-Node</b></font></code>
   <hr style="border: 1px dashed #30363d; margin: 10px 0;">
@@ -58,14 +57,14 @@
 
 <!-- Right Column: System Specs & Typing Animation -->
 <td width="70%" valign="top" style="padding: 20px;">
-<pre style="background: transparent; border: none; margin: 0; padding: 0;"><code style="color: #c9d1d9;">> Loading identity matrix...
-{
-  <font color="#79c0ff">"name"</font>: <font color="#a5d6ff">"Christian R. Lascuña"</font>,
-  <font color="#79c0ff">"role"</font>: <font color="#a5d6ff">"Full-Stack Architect & AI Engineer"</font>,
-  <font color="#79c0ff">"location"</font>: <font color="#a5d6ff">"Davao City, PH 🇵🇭"</font>
-}
+<pre style="background: transparent; border: none; margin: 0; padding: 0;"><code style="color: #c9d1d9;">> <font color="#58a6ff">Loading identity matrix...</font>
+<font color="#d2a8ff">{</font>
+  <font color="#79c0ff">"name"</font>: <font color="#ffca85"><b>"Christian R. Lascuña"</b></font>,
+  <font color="#d2a8ff">"role"</font>: <font color="#7ee787"><b>"Full-Stack Architect & AI Engineer"</b></font>,
+  <font color="#ff7b72">"location"</font>: <font color="#ffa657"><b>"Davao City, PH 🇵🇭"</b></font>
+<font color="#d2a8ff">}</font>
 
-> Initializing AI Pipelines...</code></pre>
+> <font color="#27c93f">Initializing AI Pipelines...</font></code></pre>
   
   <!-- High-Tech Multi-Line Typing Animation -->
   <a href="https://github.com/clascuna556171">

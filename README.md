@@ -63,10 +63,12 @@ EOF
 
 c_lascuna@tech-generalist:~$ ./execute_roninclips.sh --optimize-all
 [SYSTEM] Engine loaded: Laravel Core + Python Computer Vision + Whisper AI [ONLINE]
-c_lascuna@tech-generalist:~$ echo "Status: Ready for High-Impact Engineering"
-Status: Ready for High-Impact Engineering
-c_lascuna@tech-generalist:~$ █
 ```
+
+<!-- Real Live Blinking & Animated Terminal Prompt Line -->
+<div align="left" style="padding-left: 14px; padding-bottom: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=1200&color=58A6FF&background=0D111700&center=false&vCenter=true&width=620&lines=c_lascuna@tech-generalist:~$+status:+ready_for_collaboration;c_lascuna@tech-generalist:~$+awaiting_next_command...;c_lascuna@tech-generalist:~$+ping+-c+1+production_server;[PONG]+All+systems+operational+[100%]" alt="Blinking Live Prompt" />
+</div>
 
 </td>
 </tr>

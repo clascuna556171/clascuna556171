@@ -23,10 +23,7 @@
     <a href="https://github.com/clascuna556171" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-clascuna556171-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://www.linkedin.com/in/christian-lascu%C3%B1a-a1ab24420/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-</p>
+  </p>
 
 </div>
 
@@ -47,24 +44,10 @@
 </td>
 </tr>
 <tr>
-<td>
+<td align="center" style="padding: 18px 10px;">
 
-```bash
-c_lascuna@tech-generalist:~$ cat << 'EOF' > identity.json
-{
-  "name": "Christian R. Lascuña",
-  "location": "Davao City, Philippines",
-  "education": "BS Information Technology — University of Mindanao",
-  "role": "Full-Stack Builder & System Architect",
-  "current_focus": "Bridging web ecosystems with offline AI automation & computer vision",
-  "philosophy": "Engineering high-throughput systems to automate bottlenecks out of existence."
-}
-EOF
-
-c_lascuna@tech-generalist:~$ ./execute_roninclips.sh --optimize-all
-[SYSTEM] Engine loaded: Laravel Core + Python Computer Vision + Whisper AI [ONLINE]
-c_lascuna@tech-generalist:~$ █
-```
+  <!-- Live Typing Terminal Stream -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1800&color=0E75B6&background=0D111700&center=false&vCenter=true&width=620&lines=c_lascuna@generalist:~$+cat+identity.json;{+"name":+"Christian+R.+Lascuña",+"role":+"Full-Stack+Architect"+};c_lascuna@generalist:~$+./execute_roninclips.sh+--optimize-all;[SYSTEM]+Engine+Loaded:+Laravel+%2B+Whisper+AI+%2B+OpenCV+[ONLINE];c_lascuna@generalist:~$+echo+"Ready+for+High-Impact+Engineering"' alt="Terminal Animation" />
 
 </td>
 </tr>

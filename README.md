@@ -39,7 +39,7 @@ c_lascuna@tech-generalist:~$ cat << 'EOF' > identity.json
   "education": "BS Information Technology — University of Mindanao",
   "role": "Full-Stack Builder & System Architect",
   "current_focus": "Bridging web ecosystems with offline AI automation & computer vision",
-  "philosophy": "Engineering Stoic, high-throughput systems that automate bottlenecks out of existence."
+  "philosophy": "Engineering high-throughput systems to automate bottlenecks out of existence."
 }
 EOF
 
@@ -134,21 +134,13 @@ c_lascuna@tech-generalist:~$ ./execute_roninclips.sh --optimize-all
 
 <div align="center">
 
-  <table align="center" border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=clascuna556171&show_icons=true&theme=tokyonight&border_color=0e75b6&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&hide_border=false" width="100%" alt="Christian's GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=clascuna556171&theme=tokyonight&border_color=0e75b6&background=0d1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideLabels=c9d1d9&dates=8b949e" width="100%" alt="Christian's Streak Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clascuna556171&layout=compact&theme=tokyonight&border_color=0e75b6&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&hide_border=false" width="60%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <!-- Live Contribution Waveform Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=clascuna556171&theme=tokyo-night&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=false&border_color=0e75b6" width="95%" alt="Christian's Contribution Graph" />
+
+  <br/><br/>
+
+  <!-- High-Uptime Streak Telemetry Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clascuna556171&theme=tokyonight&border_color=0e75b6&background=0d1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideLabels=c9d1d9&dates=8b949e" width="80%" alt="Christian's Streak Stats" />
 
 </div>
 

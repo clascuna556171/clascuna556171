@@ -34,6 +34,21 @@
 
 ### 💻 System Initialization & Identity
 
+<div align="center">
+
+<table width="100%" style="background-color: #0d1117; border: 1px solid #0e75b6; border-radius: 8px;">
+<tr>
+<td style="background-color: #161b22; padding: 8px 14px; border-bottom: 1px solid #30363d;">
+  <span style="color: #ff5f56; font-size: 14px;">●</span>&nbsp;
+  <span style="color: #ffbd2e; font-size: 14px;">●</span>&nbsp;
+  <span style="color: #27c93f; font-size: 14px;">●</span>
+  &nbsp;&nbsp;&nbsp;
+  <code><b><font color="#8b949e">bash — c_lascuna@tech-generalist:~ (x86_64)</font></b></code>
+</td>
+</tr>
+<tr>
+<td>
+
 ```bash
 c_lascuna@tech-generalist:~$ cat << 'EOF' > identity.json
 {
@@ -48,7 +63,14 @@ EOF
 
 c_lascuna@tech-generalist:~$ ./execute_roninclips.sh --optimize-all
 [SYSTEM] Engine loaded: Laravel Core + Python Computer Vision + Whisper AI [ONLINE]
+c_lascuna@tech-generalist:~$ █
 ```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 

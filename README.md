@@ -1,50 +1,132 @@
 <div align="center">
 
-<!-- Upload your GIF to your profile repository and replace the src link below -->
-<img src="Animition.gif" alt="Christian R. Lascuña - Tech Generalist" width="100%" />
+  <!-- Profile Banner / Animation -->
+  <img src="Animation.gif" alt="Christian R. Lascuña - Tech Generalist" width="100%" />
 
-<a href="https://github.com/clascuna556171">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Tech+Generalist;Full-Stack+Architect;AI+Pipelines+and+Automation;Creator+of+RoninClips" alt="Typing SVG" />
-</a>
+  <br/><br/>
 
+  <!-- Dynamic Typing SVG Headline -->
+  <a href="https://github.com/clascuna556171">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=⚡+Tech+Generalist+%26+Full-Stack+Architect;🤖+Local+AI+Pipelines+%26+Smart+Automation;⚔️+Architect+%26+Creator+of+RoninClips;🚀+Turning+Complex+Bottlenecks+into+Seamless+Code" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- Quick Action & Contact Badges -->
+  <p align="center">
+    <a href="https://christianlascuna.pythonanywhere.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Live%20Site-0e75b6?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="mailto:c.lascuna.556171@umindanao.edu.ph">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-d93025?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/clascuna556171" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-clascuna556171-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 💻 System Initialization & Identity
+
+```bash
+c_lascuna@tech-generalist:~$ cat << 'EOF' > identity.json
+{
+  "name": "Christian R. Lascuña",
+  "location": "Davao City, Philippines 🇵🇭",
+  "education": "BS Information Technology — University of Mindanao",
+  "role": "Full-Stack Builder & System Architect",
+  "current_focus": "Bridging web ecosystems with offline AI automation & computer vision",
+  "philosophy": "Engineering high-throughput systems to automate bottlenecks out of existence."
+}
+EOF
+
+c_lascuna@tech-generalist:~$ ./execute_roninclips.sh --optimize-all
+[SYSTEM] Engine loaded: Laravel Core + Python Computer Vision + Whisper AI [ONLINE]
+```
+
+---
+
+### ⚔️ Featured Project: [RoninClips](https://github.com/clascuna556171/RoninClips)
+
+<table align="center" width="100%">
+<tr>
+<td>
+
+> **RoninClips** is a production-grade, fully offline media processing product architected from the ground up. It seamlessly bridges a resilient **Laravel web layer** with **Python micro-engines** to extract viral hooks, generate animated word-by-word subtitles, and perform real-time speaker face tracking.
+
+**Key Architectural Highlights:**
+- 🎙️ **Offline AI Transcription:** Local Whisper AI pipeline for high-precision, multi-language speech-to-text.
+- 🎯 **Smart Face Cropping:** OpenCV-powered visual heuristics that keep active speakers dynamically centered in vertical video format (9:16).
+- ⚡ **Asynchronous Media Pipeline:** FFmpeg distributed jobs for sub-second subtitle rendering and video transformations.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+👉 **[Explore the RoninClips Repository ➔](https://github.com/clascuna556171/RoninClips)**
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack & Engineering Arsenal
+
+<div align="center">
+
+#### 🌐 Core Backend & Full Stack
 <p align="center">
-  <a href="https://christianlascuna.pythonanywhere.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-0e75b6?style=for-the-badge&logo=firefox" alt="Portfolio" />
-  </a>
-  <a href="mailto:c.lascuna.556171@umindanao.edu.ph">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-d93025?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=laravel,php,python,django,fastapi,js,nodejs,html,css,tailwind,bootstrap" alt="Backend and Full Stack" />
+</p>
+
+#### 🤖 AI, Computer Vision & Media Pipelines
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" alt="AI and CV" />
+  <img src="https://img.shields.io/badge/Whisper_AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
+</p>
+
+#### 🗄️ Systems, Databases & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,bash,linux,docker,postman" alt="Systems and DBs" />
 </p>
 
 </div>
 
 ---
 
-### 💻 System Initialization...
+### 📊 System Telemetry & GitHub Activity
 
-```json
-c_lascuna@tech-generalist:~$ cat identity.json
-{
-  "name": "Christian R. Lascuña",
-  "location": "Philippines",
-  "education": "BSIT at UM (Davao City)",
-  "role": "Full-Stack Builder & System Architect",
-  "current_mission": "Bridging web environments with local AI automation.",
-  "status": "Engineering solutions to automate bottlenecks out of existence."
-}
-c_lascuna@tech-generalist:~$ ./execute_roninclips.sh
-```
+<div align="center">
 
-### ⚔️ Featured Project: RoninClips
-RoninClips is a fully offline, multi-language media processing product I architected from scratch. It connects a Laravel system layer with Python-driven processing engines to extract viral hooks, generate word-by-word animated captions, and apply smart face cropping via OpenCV.
+  <table align="center" border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=clascuna556171&show_icons=true&theme=tokyonight&border_color=0e75b6&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&hide_border=false" width="100%" alt="Christian's GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=clascuna556171&theme=tokyonight&border_color=0e75b6&background=0d1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideLabels=c9d1d9&dates=8b949e" width="100%" alt="Christian's Streak Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clascuna556171&layout=compact&theme=tokyonight&border_color=0e75b6&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&hide_border=false" width="60%" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
-Check out the repository here ➔
+</div>
 
-### 🛠️ Tech Stack & Engineering Tools
-**Core Backend & Full Stack**
+---
 
-**AI & Media Pipelines**
-
-**Systems, Tools & DBs**
-
-### 📊 System Telemetry & Activity
+<div align="center">
+  <sub>⚡ Engineered with precision by <b>Christian R. Lascuña</b> • Always open to high-impact collaborations.</sub>
+</div>

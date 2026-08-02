@@ -23,8 +23,10 @@
     <a href="https://github.com/clascuna556171" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-clascuna556171-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-  </p>
-
+    <a href="https://www.linkedin.com/in/christian-lascu%C3%B1a-a1ab24420/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+</p>
 </div>
 
 ---
@@ -44,10 +46,10 @@
 </td>
 </tr>
 <tr>
-<td align="center" style="padding: 18px 10px;">
+<td align="center" style="padding: 16px 10px;">
 
   <!-- Live Typing Terminal Stream -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1800&color=0E75B6&background=0D111700&center=false&vCenter=true&width=620&lines=c_lascuna@generalist:~$+cat+identity.json;{+"name":+"Christian+R.+Lascuña",+"role":+"Full-Stack+Architect"+};c_lascuna@generalist:~$+./execute_roninclips.sh+--optimize-all;[SYSTEM]+Engine+Loaded:+Laravel+%2B+Whisper+AI+%2B+OpenCV+[ONLINE];c_lascuna@generalist:~$+echo+"Ready+for+High-Impact+Engineering"' alt="Terminal Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1800&color=0E75B6&background=0D111700&center=false&vCenter=true&width=600&lines=c_lascuna@tech-generalist:~$+cat+identity.json;%7B+%22name%22:+%22Christian+R.+Lascu%C3%B1a%22,+%22role%22:+%22Full-Stack+Architect%22+%7D;c_lascuna@tech-generalist:~$+./execute_roninclips.sh+--optimize-all;[SYSTEM]+Engine+Loaded:+Laravel+%2B+Whisper+AI+%2B+OpenCV+[ONLINE];c_lascuna@tech-generalist:~$+echo+%22System+Ready+for+Action%22" alt="Terminal Animation" />
 
 </td>
 </tr>

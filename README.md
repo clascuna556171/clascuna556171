@@ -47,7 +47,7 @@
 <tr>
 <!-- Left Column: High-Tech Cyber Hologram & Identity -->
 <td width="30%" align="center" valign="middle" style="border-right: 1px solid #30363d; padding: 20px;">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Cyber Core" width="130" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif](https://user-images.githubusercontent.com/74038190/212284158-e9f40e79-8d1c-425d-b220-43a30c41a389.gif" alt="Cyber Core" width="130" />
   <br><br>
   <code><font color="#58A6FF"><b>c_lascuna@AI-Node</b></font></code>
   <hr style="border: 1px dashed #30363d; margin: 10px 0;">

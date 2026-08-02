@@ -5,7 +5,7 @@
 
   <br/><br/>
 
-  <!-- Dynamic Typing SVG Headline (Fixed: clean font rendering & URL encoding) -->
+  <!-- Dynamic Typing SVG Headline -->
   <a href="https://github.com/clascuna556171">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Tech+Generalist+%26+Full-Stack+Architect;Local+AI+Pipelines+%26+Automation;Architect+%26+Creator+of+RoninClips;Building+High-Throughput+Systems" alt="Typing SVG" />
   </a>
@@ -39,13 +39,21 @@ c_lascuna@tech-generalist:~$ cat << 'EOF' > identity.json
   "education": "BS Information Technology — University of Mindanao",
   "role": "Full-Stack Builder & System Architect",
   "current_focus": "Bridging web ecosystems with offline AI automation & computer vision",
-  "philosophy": "Engineering high-throughput systems to automate bottlenecks out of existence."
+  "philosophy": "Engineering Stoic, high-throughput systems that automate bottlenecks out of existence."
 }
 EOF
 
 c_lascuna@tech-generalist:~$ ./execute_roninclips.sh --optimize-all
 [SYSTEM] Engine loaded: Laravel Core + Python Computer Vision + Whisper AI [ONLINE]
 ```
+
+---
+
+### 💡 Core Engineering Pillars
+
+| 🌐 Full-Stack Architecture | 🤖 Local & Edge AI | ⚡ Systems & Automation |
+| :--- | :--- | :--- |
+| • Clean Laravel & Python MVC<br/>• RESTful API Design & Auth<br/>• Optimized Relational Databases | • Offline Whisper Speech-to-Text<br/>• OpenCV Real-time Face Tracking<br/>• Zero-Cloud-Dependency Pipelines | • High-throughput FFmpeg Pipelines<br/>• Bash Scripting & Linux CLI<br/>• Automated Media Workflows |
 
 ---
 
@@ -57,10 +65,29 @@ c_lascuna@tech-generalist:~$ ./execute_roninclips.sh --optimize-all
 
 > **RoninClips** is a production-grade, fully offline media processing product architected from the ground up. It seamlessly bridges a resilient **Laravel web layer** with **Python micro-engines** to extract viral hooks, generate animated word-by-word subtitles, and perform real-time speaker face tracking.
 
-**Key Architectural Highlights:**
-- 🎙️ **Offline AI Transcription:** Local Whisper AI pipeline for high-precision, multi-language speech-to-text.
-- 🎯 **Smart Face Cropping:** OpenCV-powered visual heuristics that keep active speakers dynamically centered in vertical video format (9:16).
-- ⚡ **Asynchronous Media Pipeline:** FFmpeg distributed jobs for sub-second subtitle rendering and video transformations.
+```
+   [ Raw Video / Media ]
+            │
+            ▼
+ ┌────────────────────────────────────────────────────────┐
+ │           Laravel Orchestration Layer (MVC)            │
+ └───────┬───────────────────────────────┬────────────────┘
+         │ (Sub-process dispatch)        │ (Job Queue)
+         ▼                               ▼
+ ┌──────────────────────────┐    ┌──────────────────────────┐
+ │  Local Whisper AI Model  │    │   OpenCV Face Tracker    │
+ │ (Word-level timestamps)  │    │  (Dynamic 9:16 centering)│
+ └───────┬──────────────────┘    └───────┬──────────────────┘
+         │                               │
+         └───────────────┬───────────────┘
+                         ▼
+       ┌───────────────────────────────────┐
+       │     FFmpeg Processing Engine      │
+       │ (Burn-in captions & render hook)  │
+       └─────────────────┬─────────────────┘
+                         ▼
+            [ 🎬 Viral Output Ready ]
+```
 
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />

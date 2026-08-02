@@ -27,6 +27,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
 </p>
+
 </div>
 
 ---
@@ -45,9 +46,9 @@
 </td>
 </tr>
 <tr>
-<!-- Left Column: Cyber Ronin Avatar & Identity -->
+<!-- Left Column: High-Tech 3D Technologist Avatar & Identity -->
 <td width="30%" align="center" valign="middle" style="border-right: 1px solid #30363d; padding: 20px;">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e9f40e79-8d1c-425d-b220-43a30c41a389.gif" alt="Cyber Ronin" width="130" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist.png" alt="Technologist" width="120" />
   <br><br>
   <code><font color="#58A6FF"><b>c_lascuna@AI-Node</b></font></code>
   <hr style="border: 1px dashed #30363d; margin: 10px 0;">
@@ -56,16 +57,17 @@
 </td>
 
 <!-- Right Column: System Specs & Typing Animation -->
-<td width="70%" valign="top" style="padding: 20px;">
-<pre style="background: transparent; border: none; margin: 0; padding: 0;"><code style="color: #c9d1d9;">> <font color="#58a6ff">Loading identity matrix...</font>
-<font color="#d2a8ff">{</font>
-  <font color="#79c0ff"><b>"name"</b></font>: <font color="#ffca85"><b>"Christian R. Lascuña"</b></font>,
-  <font color="#d2a8ff"><b>"role"</b></font>: <font color="#7ee787"><b>"Full-Stack Architect & AI Engineer"</b></font>,
-  <font color="#ff7b72"><b>"location"</b></font>: <font color="#ffa657"><b>"Davao City, PH 🇵🇭"</b></font>
-<font color="#d2a8ff">}</font>
+<td width="70%" valign="top" style="padding: 20px; font-family: monospace; line-height: 1.6;">
+  <font color="#58a6ff">&gt; Loading identity matrix...</font><br>
+  <font color="#d2a8ff">{</font><br>
+  &nbsp;&nbsp;<font color="#79c0ff"><b>"name"</b></font>: <font color="#ffca85"><b>"Christian R. Lascuña"</b></font>,<br>
+  &nbsp;&nbsp;<font color="#d2a8ff"><b>"role"</b></font>: <font color="#7ee787"><b>"Full-Stack Architect &amp; AI Engineer"</b></font>,<br>
+  &nbsp;&nbsp;<font color="#ff7b72"><b>"location"</b></font>: <font color="#ffa657"><b>"Davao City, PH 🇵🇭"</b></font><br>
+  <font color="#d2a8ff">}</font><br><br>
+  <font color="#27c93f">&gt; Initializing AI Pipelines...</font>
 
-> <font color="#27c93f">Initializing AI Pipelines...</font></code></pre>
-  
+  <br><br>
+
   <!-- High-Tech Multi-Line Typing Animation -->
   <a href="https://github.com/clascuna556171">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=800&color=27c93f&background=0D111700&center=false&vCenter=true&width=500&lines=[OK]+OpenCV+Vision+Engine+Mounted;[OK]+Whisper+Speech-to-Text+Ready;[OK]+Laravel+MVC+Connected;[SYSTEM]+All+bottlenecks+automated+out+of+existence.;c_lascuna@tech-generalist:~$+awaiting_command..." alt="Boot Sequence" />

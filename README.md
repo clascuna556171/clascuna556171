@@ -35,45 +35,45 @@
 ### 💻 System Initialization & Identity
 
 <div align="center">
-
-<table width="100%" style="background-color: #0d1117; border: 1px solid #0e75b6; border-radius: 8px;">
+<table width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px;">
 <tr>
-<td style="background-color: #161b22; padding: 8px 14px; border-bottom: 1px solid #30363d;">
+<td colspan="2" style="background-color: #161b22; padding: 8px 14px; border-bottom: 1px solid #30363d;">
   <span style="color: #ff5f56; font-size: 14px;">●</span>&nbsp;
   <span style="color: #ffbd2e; font-size: 14px;">●</span>&nbsp;
   <span style="color: #27c93f; font-size: 14px;">●</span>
   &nbsp;&nbsp;&nbsp;
-  <code><b><font color="#8b949e">bash — c_lascuna@tech-generalist:~ (x86_64)</font></b></code>
+  <code><b><font color="#8b949e">bash — neofetch --system-architect</font></b></code>
 </td>
 </tr>
 <tr>
-<td align="left">
+<!-- Left Column: Animated Icon & Identity -->
+<td width="30%" align="center" valign="middle" style="border-right: 1px solid #30363d; padding: 20px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="AI Robot" width="120" />
+  <br><br>
+  <code><font color="#58A6FF"><b>c_lascuna@AI-Node</b></font></code>
+  <hr style="border: 1px dashed #30363d; margin: 10px 0;">
+  <code><font color="#8b949e">UPTIME:</font> 24/7/365</code><br>
+  <code><font color="#8b949e">SHELL:</font> bash 5.1.16</code>
+</td>
 
-```bash
-c_lascuna@tech-generalist:~$ cat << 'EOF' > identity.json
+<!-- Right Column: System Specs & Typing Animation -->
+<td width="70%" valign="top" style="padding: 20px;">
+<pre style="background: transparent; border: none; margin: 0; padding: 0;"><code style="color: #c9d1d9;">> Loading identity matrix...
 {
-  "name": "Christian R. Lascuña",
-  "location": "Davao City, Philippines",
-  "education": "BS Information Technology — University of Mindanao",
-  "role": "Full-Stack Builder & System Architect",
-  "current_focus": "Bridging web ecosystems with offline AI automation & computer vision",
-  "philosophy": "Engineering high-throughput systems to automate bottlenecks out of existence."
+  <font color="#79c0ff">"name"</font>: <font color="#a5d6ff">"Christian R. Lascuña"</font>,
+  <font color="#79c0ff">"role"</font>: <font color="#a5d6ff">"Full-Stack Architect & AI Engineer"</font>,
+  <font color="#79c0ff">"location"</font>: <font color="#a5d6ff">"Davao City, PH 🇵🇭"</font>
 }
-EOF
 
-c_lascuna@tech-generalist:~$ ./execute_roninclips.sh --optimize-all
-[SYSTEM] Engine loaded: Laravel Core + Python Computer Vision + Whisper AI [ONLINE]
-```
-
-<!-- Real Live Blinking & Animated Terminal Prompt Line -->
-<div align="left" style="padding-left: 14px; padding-bottom: 10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=1200&color=58A6FF&background=0D111700&center=false&vCenter=true&width=620&lines=c_lascuna@tech-generalist:~$+status:+ready_for_collaboration;c_lascuna@tech-generalist:~$+awaiting_next_command...;c_lascuna@tech-generalist:~$+ping+-c+1+production_server;[PONG]+All+systems+operational+[100%]" alt="Blinking Live Prompt" />
-</div>
-
+> Initializing AI Pipelines...</code></pre>
+  
+  <!-- High-Tech Multi-Line Typing Animation -->
+  <a href="https://github.com/clascuna556171">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=800&color=27c93f&background=0D111700&center=false&vCenter=true&width=500&lines=[OK]+OpenCV+Vision+Engine+Mounted;[OK]+Whisper+Speech-to-Text+Ready;[OK]+Laravel+MVC+Connected;[SYSTEM]+All+bottlenecks+automated+out+of+existence.;c_lascuna@tech-generalist:~$+awaiting_command..." alt="Boot Sequence" />
+  </a>
 </td>
 </tr>
 </table>
-
 </div>
 
 ---

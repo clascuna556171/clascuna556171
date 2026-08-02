@@ -5,9 +5,9 @@
 
   <br/><br/>
 
-  <!-- Dynamic Typing SVG Headline -->
+  <!-- Dynamic Typing SVG Headline (Fixed: clean font rendering & URL encoding) -->
   <a href="https://github.com/clascuna556171">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=⚡+Tech+Generalist+%26+Full-Stack+Architect;🤖+Local+AI+Pipelines+%26+Smart+Automation;⚔️+Architect+%26+Creator+of+RoninClips;🚀+Turning+Complex+Bottlenecks+into+Seamless+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Tech+Generalist+%26+Full-Stack+Architect;Local+AI+Pipelines+%26+Automation;Architect+%26+Creator+of+RoninClips;Building+High-Throughput+Systems" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -35,7 +35,7 @@
 c_lascuna@tech-generalist:~$ cat << 'EOF' > identity.json
 {
   "name": "Christian R. Lascuña",
-  "location": "Davao City, Philippines 🇵🇭",
+  "location": "Davao City, Philippines",
   "education": "BS Information Technology — University of Mindanao",
   "role": "Full-Stack Builder & System Architect",
   "current_focus": "Bridging web ecosystems with offline AI automation & computer vision",

@@ -23,7 +23,10 @@
     <a href="https://github.com/clascuna556171" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-clascuna556171-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-  </p>
+    <a href="https://www.linkedin.com/in/christian-lascu%C3%B1a-a1ab24420/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+</p>
 
 </div>
 

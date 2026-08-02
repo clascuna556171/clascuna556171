@@ -2,7 +2,7 @@
 
 <!-- 1. CUSTOM GIF BANNER -->
 <!-- Upload your GIF to your profile repository and replace the src link below -->
-<img src="YOUR_GIF_BANNER_NAME.gif" alt="Christian R. Lascuña - Tech Generalist" width="100%" />
+<img src="Animation.gif" alt="Christian R. Lascuña - Tech Generalist" width="100%" />
 
 <!-- 2. DYNAMIC TYPING SVG -->
 <a href="https://github.com/clascuna556171">

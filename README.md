@@ -27,6 +27,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
 </p>
+
 </div>
 
 ---
@@ -46,10 +47,26 @@
 </td>
 </tr>
 <tr>
-<td align="center" style="padding: 16px 10px;">
+<td align="left">
 
-  <!-- Live Typing Terminal Stream -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1800&color=0E75B6&background=0D111700&center=false&vCenter=true&width=600&lines=c_lascuna@tech-generalist:~$+cat+identity.json;%7B+%22name%22:+%22Christian+R.+Lascu%C3%B1a%22,+%22role%22:+%22Full-Stack+Architect%22+%7D;c_lascuna@tech-generalist:~$+./execute_roninclips.sh+--optimize-all;[SYSTEM]+Engine+Loaded:+Laravel+%2B+Whisper+AI+%2B+OpenCV+[ONLINE];c_lascuna@tech-generalist:~$+echo+%22System+Ready+for+Action%22" alt="Terminal Animation" />
+```bash
+c_lascuna@tech-generalist:~$ cat << 'EOF' > identity.json
+{
+  "name": "Christian R. Lascuña",
+  "location": "Davao City, Philippines",
+  "education": "BS Information Technology — University of Mindanao",
+  "role": "Full-Stack Builder & System Architect",
+  "current_focus": "Bridging web ecosystems with offline AI automation & computer vision",
+  "philosophy": "Engineering high-throughput systems to automate bottlenecks out of existence."
+}
+EOF
+
+c_lascuna@tech-generalist:~$ ./execute_roninclips.sh --optimize-all
+[SYSTEM] Engine loaded: Laravel Core + Python Computer Vision + Whisper AI [ONLINE]
+c_lascuna@tech-generalist:~$ echo "Status: Ready for High-Impact Engineering"
+Status: Ready for High-Impact Engineering
+c_lascuna@tech-generalist:~$ █
+```
 
 </td>
 </tr>

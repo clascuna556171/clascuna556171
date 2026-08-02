@@ -46,9 +46,9 @@
 </td>
 </tr>
 <tr>
-<!-- Left Column: High-Tech 3D Technologist Avatar & Identity -->
+<!-- Left Column: Verified Animated 3D Robot & Identity -->
 <td width="30%" align="center" valign="middle" style="border-right: 1px solid #30363d; padding: 20px;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist.png" alt="Technologist" width="120" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="AI Robot" width="110" />
   <br><br>
   <code><font color="#58A6FF"><b>c_lascuna@AI-Node</b></font></code>
   <hr style="border: 1px dashed #30363d; margin: 10px 0;">
@@ -56,17 +56,17 @@
   <code><font color="#8b949e">SHELL:</font> bash 5.1.16</code>
 </td>
 
-<!-- Right Column: System Specs & Typing Animation -->
-<td width="70%" valign="top" style="padding: 20px; font-family: monospace; line-height: 1.6;">
-  <font color="#58a6ff">&gt; Loading identity matrix...</font><br>
-  <font color="#d2a8ff">{</font><br>
-  &nbsp;&nbsp;<font color="#79c0ff"><b>"name"</b></font>: <font color="#ffca85"><b>"Christian R. Lascuña"</b></font>,<br>
-  &nbsp;&nbsp;<font color="#d2a8ff"><b>"role"</b></font>: <font color="#7ee787"><b>"Full-Stack Architect &amp; AI Engineer"</b></font>,<br>
-  &nbsp;&nbsp;<font color="#ff7b72"><b>"location"</b></font>: <font color="#ffa657"><b>"Davao City, PH 🇵🇭"</b></font><br>
-  <font color="#d2a8ff">}</font><br><br>
-  <font color="#27c93f">&gt; Initializing AI Pipelines...</font>
+<!-- Right Column: Syntax-Colored JSON & Boot Sequence -->
+<td width="70%" valign="top" style="padding: 15px 20px;">
 
-  <br><br>
+```json
+{
+  "name": "Christian R. Lascuña",
+  "role": "Full-Stack Architect & AI Engineer",
+  "location": "Davao City, Philippines",
+  "mission": "Bridging Web Ecosystems with Local AI Automation"
+}
+```
 
   <!-- High-Tech Multi-Line Typing Animation -->
   <a href="https://github.com/clascuna556171">

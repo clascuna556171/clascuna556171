@@ -2,14 +2,14 @@
 
 # Hi there, I'm Christian R. Lascuña! 👋
 
-### 👨‍💻 Aspiring IT Professional | Tech Enthusiast | Python & Java Developer
+### 👨‍💻 Tech Generalist | Full Stack Dev | AI Pipelines & Automation
 
 <p align="center">
   <a href="https://christianlascuna.pythonanywhere.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=firefox" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-0e75b6?style=for-the-badge&logo=firefox" alt="Portfolio" />
   </a>
   <a href="mailto:c.lascuna.556171@umindanao.edu.ph">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-d93025?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
 
@@ -20,20 +20,29 @@
 ---
 
 ### 🚀 About Me
-I am an IT student from the **Philippines** passionate about software development and tech trends. I love building web applications and exploring backend technologies.
 
-- 🔭 I’m currently working on **Python and Java projects**.
-- 🌱 I’m currently learning **Advanced Data Structures and Algorithms**.
-- 💬 Ask me about **Python, Java, and Tech Trends**.
-- ⚡ Fun fact: **I love turning coffee into code! ☕**
+I am a Full-Stack Developer and Tech Generalist based in the Philippines, specializing in architecting complex systems from the ground up. I don't just write code; I engineer solutions that bridge the gap between dynamic web environments, deep backend infrastructure, and intelligent automation. 
+
+- 🔭 **Currently Building:** [RoninClips](https://github.com/clascuna556171/roninclips) — an open-source, local-first AI video clipping & automated subtitle engine.
+- ⚙️ **Core Focus:** Full Stack Architecture (Laravel/Python), AI/Media Pipelines, and Intelligent Automation.
+- 🎓 **Education:** Pursuing BSIT at UM (Davao City), viewing every technical bottleneck as a puzzle waiting to be automated out of existence.
+- 💬 **Ask me about:** End-to-end system design, computer vision automation, and integrating LLMs locally.
 
 ---
 
-### 🛠️ Languages and Tools
+### ⚔️ Featured Project: RoninClips
 
-| **Backend & Core** | **Frontend & Design** | **Tools & Database** |
+> **RoninClips** is a fully offline, multi-language media processing product I architected from scratch. It connects a Laravel system layer with Python-driven processing engines to extract viral hooks, generate word-by-word animated captions, and apply smart face cropping via OpenCV. 
+
+**[Check out the repository here ➔](https://github.com/clascuna556171/roninclips)**
+
+---
+
+### 🛠️ Tech Stack & Engineering Tools
+
+| **Core Backend & Full Stack** | **AI & Media Pipelines** | **Systems, Tools & DBs** |
 |:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) <br> ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) <br> ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) <br> ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white) | ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) <br> ![FFmpeg](https://img.shields.io/badge/FFmpeg-%232B65EC.svg?style=flat&logo=ffmpeg&logoColor=white) <br> ![AI/Whisper](https://img.shields.io/badge/AI_Pipelines-000000?style=flat&logo=openai&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) <br> ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) |
 
 ---
 
@@ -47,5 +56,5 @@ I am an IT student from the **Philippines** passionate about software developmen
 <br />
 
 <div align="center">
-  <sub>Last updated automatically</sub>
+  <sub>End-to-End Builder | System Architect | Tech Generalist</sub>
 </div>

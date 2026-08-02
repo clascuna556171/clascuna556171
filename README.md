@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- 1. CUSTOM GIF BANNER -->
 <!-- Upload your GIF to your profile repository and replace the src link below -->
-<img src="Animation.gif" alt="Christian R. Lascuña - Tech Generalist" width="100%" />
+<img src="Animitaion.gif" alt="Christian R. Lascuña - Tech Generalist" width="100%" />
 
-<!-- 2. DYNAMIC TYPING SVG -->
 <a href="https://github.com/clascuna556171">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Tech+Generalist;Full-Stack+Architect;AI+Pipelines+%26+Automation;Lead+Developer,+RoninClips" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Tech+Generalist;Full-Stack+Architect;AI+Pipelines+and+Automation;Creator+of+RoninClips" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -24,7 +22,6 @@
 
 ### 💻 System Initialization...
 
-<!-- 3. TERMINAL EXECUTION BLOCK -->
 ```json
 c_lascuna@tech-generalist:~$ cat identity.json
 {
@@ -36,3 +33,18 @@ c_lascuna@tech-generalist:~$ cat identity.json
   "status": "Engineering solutions to automate bottlenecks out of existence."
 }
 c_lascuna@tech-generalist:~$ ./execute_roninclips.sh
+```
+
+### ⚔️ Featured Project: RoninClips
+RoninClips is a fully offline, multi-language media processing product I architected from scratch. It connects a Laravel system layer with Python-driven processing engines to extract viral hooks, generate word-by-word animated captions, and apply smart face cropping via OpenCV.
+
+Check out the repository here ➔
+
+### 🛠️ Tech Stack & Engineering Tools
+**Core Backend & Full Stack**
+
+**AI & Media Pipelines**
+
+**Systems, Tools & DBs**
+
+### 📊 System Telemetry & Activity

@@ -46,9 +46,9 @@
 </td>
 </tr>
 <tr>
-<!-- Left Column: Verified Animated 3D Robot & Identity -->
-<td width="30%" align="center" valign="middle" style="border-right: 1px solid #30363d; padding: 20px;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="AI Robot" width="110" />
+<!-- Left Column: Custom Ronin ASCII Vector & Identity -->
+<td width="35%" align="center" valign="middle" style="border-right: 1px solid #30363d; padding: 15px;">
+  <img src="ascii_art.svg" alt="Ronin ASCII Art" width="100%" />
   <br><br>
   <code><font color="#58A6FF"><b>c_lascuna@AI-Node</b></font></code>
   <hr style="border: 1px dashed #30363d; margin: 10px 0;">
@@ -57,7 +57,7 @@
 </td>
 
 <!-- Right Column: Syntax-Colored JSON & Boot Sequence -->
-<td width="70%" valign="top" style="padding: 15px 20px;">
+<td width="65%" valign="top" style="padding: 15px 20px;">
 
 ```json
 {

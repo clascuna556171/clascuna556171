@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Upload your GIF to your profile repository and replace the src link below -->
-<img src="Animitaion.gif" alt="Christian R. Lascuña - Tech Generalist" width="100%" />
+<img src="Animition.gif" alt="Christian R. Lascuña - Tech Generalist" width="100%" />
 
 <a href="https://github.com/clascuna556171">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Tech+Generalist;Full-Stack+Architect;AI+Pipelines+and+Automation;Creator+of+RoninClips" alt="Typing SVG" />

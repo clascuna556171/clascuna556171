@@ -14,7 +14,7 @@
 
   <!-- Quick Action & Contact Badges -->
   <p align="center">
-    <a href="https://christianlascuna.pythonanywhere.com/" target="_blank">
+    <a href="https://christianlascuna.me" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Live%20Site-0e75b6?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:c.lascuna.556171@umindanao.edu.ph">

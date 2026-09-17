@@ -62,7 +62,7 @@
 ```json
 {
   "name": "Christian R. Lascuña",
-  "role": "Full-Stack Dev & AI Engineer",
+  "role": "Full-Stack Dev, Mentor & AI Engineer",
   "location": "Davao City, Philippines",
   "mission": "Bridging Web Ecosystems with Local AI Automation"
 }

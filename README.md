@@ -160,7 +160,7 @@
 
 ---
 
-### 📊 System Telemetry & GitHub Activity
+### 📊 Systems Telemetry & GitHub Activity
 
 <div align="center">
 

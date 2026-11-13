@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="316" viewBox="0 0 1200 316" role="img" aria-label="Engineering Arsenal and Verified Credentials Ledger">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="356" viewBox="0 0 1200 356" role="img" aria-label="Engineering Arsenal and Verified Credentials Ledger">
   <defs>
     <linearGradient id="dBg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#F8F6F0"/>
@@ -14,7 +14,7 @@
       <circle cx="9" cy="9" r="0.45" fill="rgba(25, 24, 23, 0.048)"/>
     </pattern>
     <clipPath id="dClip">
-      <rect x="24" y="10" width="1152" height="294" rx="4"/>
+      <rect x="10" y="10" width="1180" height="334" rx="5"/>
     </clipPath>
     <style>
       .scan-glide { animation: scanRun 8s ease-in-out infinite; }
@@ -28,74 +28,71 @@
     </style>
   </defs>
 
-  <rect x="28" y="16" width="1148" height="292" rx="4" fill="rgba(25, 24, 23, 0.085)"/>
+  <rect x="14" y="16" width="1176" height="332" rx="5" fill="rgba(25, 24, 23, 0.085)"/>
   <g clip-path="url(#dClip)">
-    <rect x="24" y="10" width="1152" height="294" rx="4" fill="url(#dBg)"/>
-    <rect x="24" y="10" width="1152" height="294" fill="url(#dGrain)"/>
+    <rect x="10" y="10" width="1180" height="334" rx="5" fill="url(#dBg)"/>
+    <rect x="10" y="10" width="1180" height="334" fill="url(#dGrain)"/>
   </g>
-  <rect x="24" y="10" width="1152" height="294" rx="4" fill="none" stroke="#C2BBAE" stroke-width="1"/>
+  <rect x="10" y="10" width="1180" height="334" rx="5" fill="none" stroke="#C2BBAE" stroke-width="1"/>
 
-  <!-- Header Labels -->
-  <text x="58" y="45" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" letter-spacing="2.4" fill="#191817">02 // ENGINEERING ARSENAL</text>
-  <text x="618" y="45" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" letter-spacing="2.4" fill="#191817">03 // ACCREDITED LEDGER</text>
-  <text x="1142" y="45" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" letter-spacing="1.8" fill="#787268">VERIFIED CREDLY &amp; COURSERA</text>
+  <text x="48" y="48" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" letter-spacing="2.2" fill="#191817">02 // ENGINEERING ARSENAL</text>
+  <text x="616" y="48" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" letter-spacing="2.2" fill="#191817">03 // ACCREDITED LEDGER</text>
+  <text x="1152" y="48" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" letter-spacing="1.6" fill="#726C62">VERIFIED CREDLY &amp; COURSERA</text>
 
-  <line x1="58" y1="62" x2="1142" y2="62" stroke="#DDD7CA" stroke-width="1"/>
-  <!-- Subtle animated monochrome optical cursor along the top rule -->
-  <rect class="scan-glide" x="58" y="61" width="160" height="2" fill="url(#scanLine)"/>
-
-  <line x1="590" y1="36" x2="590" y2="282" stroke="#DDD7CA" stroke-width="1"/>
+  <line x1="48" y1="66" x2="1152" y2="66" stroke="#DDD7CA" stroke-width="1"/>
+  <rect class="scan-glide" x="48" y="65" width="160" height="2" fill="url(#scanLine)"/>
+  <line x1="588" y1="36" x2="588" y2="320" stroke="#DDD7CA" stroke-width="1"/>
 
   <!-- Left Column: Three Architectural Pillars -->
-  <g transform="translate(58, 92)">
-    <text x="0" y="0" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" letter-spacing="1.8" fill="#787268">01 /</text>
-    <text x="36" y="0" font-family="Georgia, 'Times New Roman', Didot, 'Bodoni MT', serif" font-size="18.5" fill="#191817">Full-Stack Architecture</text>
-    <text x="36" y="21" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" letter-spacing="0.5" fill="#46423B">Laravel 11–13 &#8226; PHP 8.3 &#8226; Next.js &#8226; React 19 &#8226; TypeScript &#8226; FastAPI</text>
-    <text x="36" y="38" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" letter-spacing="0.5" fill="#787268">PostgreSQL &#8226; MySQL &#8226; SQLite &#8226; Redis &#8226; Tailwind CSS 4 &#8226; GSAP / Lenis</text>
+  <g transform="translate(48, 98)">
+    <text x="0" y="0" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="1.6" fill="#726C62">01 /</text>
+    <text x="38" y="0" font-family="Georgia, 'Times New Roman', Didot, 'Bodoni MT', serif" font-size="21" fill="#191817">Full-Stack Architecture</text>
+    <text x="38" y="23" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.8" letter-spacing="0.4" fill="#46423B">Laravel 11–13 &#8226; PHP 8.3 &#8226; Next.js &#8226; React 19 &#8226; TypeScript</text>
+    <text x="38" y="42" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" letter-spacing="0.4" fill="#726C62">FastAPI &#8226; PostgreSQL &#8226; MySQL &#8226; SQLite &#8226; Redis &#8226; Tailwind 4</text>
 
-    <line x1="0" y1="55" x2="498" y2="55" stroke="#DDD7CA" stroke-width="0.8"/>
+    <line x1="0" y1="60" x2="512" y2="60" stroke="#DDD7CA" stroke-width="0.85"/>
 
-    <text x="0" y="79" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" letter-spacing="1.8" fill="#787268">02 /</text>
-    <text x="36" y="79" font-family="Georgia, 'Times New Roman', Didot, 'Bodoni MT', serif" font-size="18.5" fill="#191817">Local &amp; Edge AI Pipelines</text>
-    <text x="36" y="100" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" letter-spacing="0.5" fill="#46423B">Faster-Whisper &#8226; Ollama &#8226; Groq LPU &#8226; MediaPipe &#8226; OpenCV &#8226; FFmpeg</text>
-    <text x="36" y="117" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" letter-spacing="0.5" fill="#787268">Model Context Protocol (MCP) &#8226; Static Skill Guardrails &#8226; Offline Inference</text>
+    <text x="0" y="88" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="1.6" fill="#726C62">02 /</text>
+    <text x="38" y="88" font-family="Georgia, 'Times New Roman', Didot, 'Bodoni MT', serif" font-size="21" fill="#191817">Local &amp; Edge AI Pipelines</text>
+    <text x="38" y="111" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.8" letter-spacing="0.4" fill="#46423B">Faster-Whisper &#8226; Ollama &#8226; Groq LPU &#8226; MediaPipe &#8226; OpenCV</text>
+    <text x="38" y="130" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" letter-spacing="0.4" fill="#726C62">FFmpeg &#8226; Model Context Protocol (MCP) &#8226; Static Guardrails</text>
 
-    <line x1="0" y1="134" x2="498" y2="134" stroke="#DDD7CA" stroke-width="0.8"/>
+    <line x1="0" y1="148" x2="512" y2="148" stroke="#DDD7CA" stroke-width="0.85"/>
 
-    <text x="0" y="158" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" letter-spacing="1.8" fill="#787268">03 /</text>
-    <text x="36" y="158" font-family="Georgia, 'Times New Roman', Didot, 'Bodoni MT', serif" font-size="18.5" fill="#191817">Systems, Desktop &amp; QA</text>
-    <text x="36" y="179" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" letter-spacing="0.5" fill="#46423B">Tauri 2 &#8226; Rust &#8226; Python / PyQt6 &#8226; Flutter / Dart &#8226; Docker &#8226; Linux / Bash</text>
-    <text x="36" y="196" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" letter-spacing="0.5" fill="#787268">PHPUnit &#8226; Vitest &#8226; Defect Triage &#8226; Interface Validation</text>
+    <text x="0" y="176" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="1.6" fill="#726C62">03 /</text>
+    <text x="38" y="176" font-family="Georgia, 'Times New Roman', Didot, 'Bodoni MT', serif" font-size="21" fill="#191817">Systems, Desktop &amp; QA</text>
+    <text x="38" y="199" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.8" letter-spacing="0.4" fill="#46423B">Tauri 2 &#8226; Rust &#8226; Python / PyQt6 &#8226; Flutter / Dart &#8226; Docker</text>
+    <text x="38" y="218" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" letter-spacing="0.4" fill="#726C62">Linux / Bash &#8226; PHPUnit &#8226; Vitest &#8226; Defect Triage</text>
   </g>
 
   <!-- Right Column: Verified Credentials Ledger -->
-  <g transform="translate(618, 92)">
-    <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5">
+  <g transform="translate(616, 98)">
+    <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">
       <text x="0" y="0" fill="#191817" font-weight="600">IT Specialist &#8212; Databases</text>
-      <text x="524" y="0" text-anchor="end" fill="#787268">CERTIPORT &#8226; 2026</text>
-      <line x1="0" y1="13" x2="524" y2="13" stroke="#DDD7CA" stroke-width="0.7"/>
+      <text x="536" y="0" text-anchor="end" fill="#726C62" font-size="11">CERTIPORT &#8226; 2026</text>
+      <line x1="0" y1="14" x2="536" y2="14" stroke="#DDD7CA" stroke-width="0.75"/>
 
-      <text x="0" y="34" fill="#191817" font-weight="600">IT Specialist &#8212; HTML and CSS</text>
-      <text x="524" y="34" text-anchor="end" fill="#787268">CERTIPORT &#8226; 2026</text>
-      <line x1="0" y1="47" x2="524" y2="47" stroke="#DDD7CA" stroke-width="0.7"/>
+      <text x="0" y="38" fill="#191817" font-weight="600">IT Specialist &#8212; HTML and CSS</text>
+      <text x="536" y="38" text-anchor="end" fill="#726C62" font-size="11">CERTIPORT &#8226; 2026</text>
+      <line x1="0" y1="52" x2="536" y2="52" stroke="#DDD7CA" stroke-width="0.75"/>
 
-      <text x="0" y="68" fill="#191817" font-weight="600">IT Specialist &#8212; Java</text>
-      <text x="524" y="68" text-anchor="end" fill="#787268">CERTIPORT &#8226; 2025</text>
-      <line x1="0" y1="81" x2="524" y2="81" stroke="#DDD7CA" stroke-width="0.7"/>
+      <text x="0" y="76" fill="#191817" font-weight="600">IT Specialist &#8212; Java</text>
+      <text x="536" y="76" text-anchor="end" fill="#726C62" font-size="11">CERTIPORT &#8226; 2025</text>
+      <line x1="0" y1="90" x2="536" y2="90" stroke="#DDD7CA" stroke-width="0.75"/>
 
-      <text x="0" y="102" fill="#191817" font-weight="600">Introduction to AI</text>
-      <text x="524" y="102" text-anchor="end" fill="#787268">GOOGLE / COURSERA &#8226; 2026</text>
-      <line x1="0" y1="115" x2="524" y2="115" stroke="#DDD7CA" stroke-width="0.7"/>
+      <text x="0" y="114" fill="#191817" font-weight="600">Introduction to AI</text>
+      <text x="536" y="114" text-anchor="end" fill="#726C62" font-size="11">GOOGLE / COURSERA &#8226; 2026</text>
+      <line x1="0" y1="128" x2="536" y2="128" stroke="#DDD7CA" stroke-width="0.75"/>
 
-      <text x="0" y="136" fill="#191817" font-weight="600">Technical Support Fundamentals</text>
-      <text x="524" y="136" text-anchor="end" fill="#787268">GOOGLE / COURSERA &#8226; 2026</text>
-      <line x1="0" y1="149" x2="524" y2="149" stroke="#DDD7CA" stroke-width="0.7"/>
+      <text x="0" y="152" fill="#191817" font-weight="600">Technical Support Fundamentals</text>
+      <text x="536" y="152" text-anchor="end" fill="#726C62" font-size="11">GOOGLE / COURSERA &#8226; 2026</text>
+      <line x1="0" y1="166" x2="536" y2="166" stroke="#DDD7CA" stroke-width="0.75"/>
 
-      <text x="0" y="170" fill="#191817" font-weight="600">Python Developer</text>
-      <text x="524" y="170" text-anchor="end" fill="#787268">SOLOLEARN &#8226; 2025</text>
-      <line x1="0" y1="183" x2="524" y2="183" stroke="#DDD7CA" stroke-width="0.7"/>
+      <text x="0" y="190" fill="#191817" font-weight="600">Python Developer</text>
+      <text x="536" y="190" text-anchor="end" fill="#726C62" font-size="11">SOLOLEARN &#8226; 2025</text>
+      <line x1="0" y1="204" x2="536" y2="204" stroke="#DDD7CA" stroke-width="0.75"/>
 
-      <text x="0" y="203" fill="#46423B" font-size="9.8" letter-spacing="1.2">ROADMAP: AWS SAA &#8226; DATA SCIENCE &#8226; SECURITY+ &#8226; CKA</text>
+      <text x="0" y="226" fill="#46423B" font-size="10.8" letter-spacing="1.2">ROADMAP: AWS SAA &#8226; DATA SCIENCE &#8226; SECURITY+ &#8226; CKA</text>
     </g>
   </g>
 </svg>

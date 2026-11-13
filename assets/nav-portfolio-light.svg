@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="286" height="42" viewBox="0 0 286 42" role="img" aria-label="PORTFOLIO — christianlascuna.dev">
+  <rect x="2" y="3" width="282" height="36" rx="4" fill="rgba(25, 24, 23, 0.085)"/>
+  <rect x="1" y="1" width="284" height="36" rx="4" fill="#F8F6F0" stroke="#C2BBAE" stroke-width="1"/>
+  <text x="16" y="23" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" font-weight="600" letter-spacing="1.8" fill="#191817">PORTFOLIO</text>
+  <text x="270" y="23" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" letter-spacing="0.6" fill="#726C62">christianlascuna.dev &#8599;</text>
+</svg>

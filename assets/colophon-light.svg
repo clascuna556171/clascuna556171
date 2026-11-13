@@ -26,6 +26,6 @@
     <path d="M84 17H37C24 17 15 26 15 39C15 52 24 61 37 61H64C69 61 72 64 72 69C72 74 69 77 64 77H16V88H64C77 88 86 80 86 68C86 55 77 48 64 48H37C31 48 28 44 28 39C28 34 31 30 37 30H84V17Z" fill="#191817"/>
   </g>
 
-  <text x="600" y="76" text-anchor="middle" font-family="Georgia, 'Times New Roman', Didot, 'Bodoni MT', serif" font-size="15.5" font-style="italic" fill="#46423B">Keep it simple. &#8212; Christian Lascu&#241;a (STXIC), Davao City</text>
-  <text x="600" y="95" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" letter-spacing="2.2" fill="#787268">CHRISTIANLASCUNA.DEV  &#8226;  STXIC-LABS.VERCEL.APP</text>
+  <text x="600" y="76" text-anchor="middle" font-family="Georgia, 'Times New Roman', Didot, 'Bodoni MT', serif" font-size="16" font-style="italic" fill="#46423B">Keep it simple. &#8212; Christian Lascu&#241;a (STXIC), Davao City</text>
+  <text x="600" y="96" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" letter-spacing="2.2" fill="#726C62">CHRISTIANLASCUNA.DEV  &#8226;  STXIC-LABS.VERCEL.APP</text>
 </svg>

@@ -60,6 +60,8 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dossier-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/dossier-light.svg" /><img src="./assets/dossier-light.svg" alt="Engineering Arsenal & Verified Credentials Ledger" width="100%" /></picture>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/telemetry-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/telemetry-light.svg" /><img src="./assets/telemetry-light.svg" alt="Activity & Streak Telemetry" width="100%" /></picture>
+
 <br />
 
 <a href="https://christianlascuna.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/colophon-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/colophon-light.svg" /><img src="./assets/colophon-light.svg" alt="Keep it simple — Christian Lascuña (STXIC)" width="100%" /></picture></a>

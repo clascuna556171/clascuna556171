@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="255" viewBox="0 0 580 255" role="img" aria-label="PRJ-02 PolySkill — Static compiler turning scripts, OpenAPI &amp; runbooks into skills.">
+  <defs>
+    <linearGradient id="pocketGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F8F6F0"/>
+      <stop offset="100%" stop-color="#F1EDE3"/>
+    </linearGradient>
+    <linearGradient id="glassGlint" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.65"/>
+      <stop offset="35%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grain" width="10" height="10" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.5" fill="rgba(25, 24, 23, 0.048)"/>
+      <circle cx="7" cy="7" r="0.45" fill="rgba(25, 24, 23, 0.048)"/>
+    </pattern>
+    <clipPath id="pocketClip">
+      <rect x="8" y="34" width="564" height="213" rx="6"/>
+    </clipPath>
+    <style>
+      .wave-drift { animation: waveSlide 16s ease-in-out infinite; }
+      .wave-drift-slow { animation: waveSlide 21s ease-in-out infinite reverse; }
+      .sheet-hover { transform-origin: 480px 44px; animation: sheetBreathe 8s ease-in-out infinite; }
+      @keyframes waveSlide {
+        0%, 100% { transform: translateX(0px); }
+        50% { transform: translateX(-34px); }
+      }
+      @keyframes sheetBreathe {
+        0%, 100% { transform: translateY(0px) rotate(-1.5deg); }
+        50% { transform: translateY(-2.5px) rotate(-0.8deg); }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .wave-drift, .wave-drift-slow, .sheet-hover { animation: none !important; }
+      }
+    </style>
+  </defs>
+
+  <!-- Back Folder Tab + Lip -->
+  <path d="M16 14 H172 C180 14 185 24 195 24 H560 C567 24 572 29 572 36 V240 H8 V22 C8 17.5 11.5 14 16 14 Z" fill="#EAE5D9" stroke="#C2BBAE" stroke-width="0.9"/>
+  <text x="26" y="28" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" letter-spacing="1.8" fill="#787268">PRJ-02 // AI &amp; AUTOMATION</text>
+
+  <!-- Fanned Paper Specimen Sheets Peeking Above Glass Pocket -->
+  <g class="sheet-hover">
+    <rect x="330" y="14" width="218" height="36" rx="3" fill="#FBF9F4" stroke="#C2BBAE" stroke-width="0.8"/>
+    <line x1="344" y1="24" x2="430" y2="24" stroke="#C2BBAE" stroke-width="1"/>
+  </g>
+  <rect x="362" y="21" width="196" height="30" rx="3" fill="#F8F6F0" stroke="#DDD7CA" stroke-width="0.8"/>
+
+  <!-- Front Card Shadow -->
+  <rect x="11" y="38" width="560" height="211" rx="6" fill="rgba(25, 24, 23, 0.085)"/>
+
+  <!-- Front Frosted Glass Folder Body -->
+  <g clip-path="url(#pocketClip)">
+    <rect x="8" y="34" width="564" height="213" rx="6" fill="url(#pocketGrad)"/>
+    <rect x="8" y="34" width="564" height="213" fill="url(#grain)"/>
+
+    <!-- Subtle Monochrome Liquid-Marble Silk Waves -->
+    <g class="wave-drift">
+      <path d="M-20 205 C110 165, 220 235, 360 185 C470 145, 540 190, 640 160 L640 260 L-20 260 Z" fill="rgba(25, 24, 23, 0.045)"/>
+      <path d="M-20 205 C110 165, 220 235, 360 185 C470 145, 540 190, 640 160" fill="none" stroke="rgba(25, 24, 23, 0.11)" stroke-width="1"/>
+    </g>
+    <g class="wave-drift-slow">
+      <path d="M-20 225 C140 195, 260 165, 400 205 C500 232, 560 195, 640 212" fill="none" stroke="rgba(25, 24, 23, 0.11)" stroke-width="0.8"/>
+    </g>
+
+    <!-- Diagonal Glass Glint -->
+    <rect x="8" y="34" width="564" height="213" fill="url(#glassGlint)"/>
+  </g>
+
+  <!-- Crisp Frosted Glass Rim -->
+  <rect x="8" y="34" width="564" height="213" rx="6" fill="none" stroke="#C2BBAE" stroke-width="1"/>
+  <line x1="16" y1="35" x2="564" y2="35" stroke="#FFFFFF" stroke-opacity="0.85" stroke-width="1"/>
+
+  <!-- Top Status & Year -->
+  <text x="34" y="66" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" letter-spacing="2" fill="#787268">PRJ-02  &#8212;  SHIPPED</text>
+  <text x="546" y="66" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" letter-spacing="1.6" fill="#787268">V1.0.0</text>
+
+  <line x1="34" y1="80" x2="546" y2="80" stroke="#DDD7CA" stroke-width="0.85"/>
+
+  <!-- Editorial Serif Title & Summary -->
+  <text x="34" y="120" font-family="Georgia, 'Times New Roman', Didot, 'Bodoni MT', serif" font-size="30" font-weight="400" letter-spacing="0.5" fill="#191817">PolySkill</text>
+  <text x="34" y="149" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#46423B">Static compiler turning scripts, OpenAPI &amp; runbooks into skills.</text>
+  <text x="34" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#46423B">Synthesizes deterministic guardrails into MCP &amp; tool schemas.</text>
+
+  <!-- Bottom Specification Ledger -->
+  <line x1="34" y1="198" x2="546" y2="198" stroke="#DDD7CA" stroke-width="0.85"/>
+  <text x="34" y="224" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" letter-spacing="1.1" fill="#787268">TYPESCRIPT  •  NODE.JS  •  UNIVERSAL IR  •  JSON SCHEMA  •  MCP</text>
+  <text x="546" y="224" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" letter-spacing="1.5" fill="#191817">OPEN &#8599;</text>
+</svg>

@@ -1,181 +1,113 @@
 <div align="center">
 
-  <!-- Profile Banner / Animation -->
-  <img src="Animation.gif" alt="Christian R. Lascuña - Tech Generalist" width="100%" />
+<a href="https://stxic-labs.vercel.app" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/optical-banner-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/optical-banner-light.svg" />
+    <img src="./assets/optical-banner-light.svg" alt="STXIC Labs — Optical Glass Monogram" width="100%" />
+  </picture>
+</a>
 
-  <br/><br/>
+<a href="https://christianlascuna.dev" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
+    <img src="./assets/hero-light.svg" alt="Christian Lascuña — Executive Business Card" width="100%" />
+  </picture>
+</a>
 
-  <!-- Dynamic Typing SVG Headline -->
-  <a href="https://github.com/clascuna556171">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Tech+Generalist+%26+Full-Stack+Architect;Local+AI+Pipelines+%26+Automation;Architect+%26+Creator+of+RoninClips;Building+High-Throughput+Systems" alt="Typing SVG" />
+<br /><br />
+
+<sub>
+  <a href="https://christianlascuna.dev"><b>PORTFOLIO</b> &middot; christianlascuna.dev</a>
+  &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+  <a href="https://stxic-labs.vercel.app"><b>LABS</b> &middot; stxic-labs.vercel.app</a>
+  &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+  <a href="mailto:c.lascuna556171@umindanao.edu.ph"><b>DIRECT LINE</b></a>
+  &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/christian-lascuna"><b>LINKEDIN</b></a>
+</sub>
+
+</div>
+
+<br />
+
+### `01 // THE OPTICAL SPECIMEN ARCHIVE`
+
+<p align="center">
+  <a href="https://github.com/clascuna556171/roninclips">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/specimen-roninclips-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/specimen-roninclips-light.svg" />
+      <img src="./assets/specimen-roninclips-light.svg" alt="PRJ-01 RoninClips — Offline AI Video Clipper" width="48%" />
+    </picture>
   </a>
-
-  <br/>
-
-  <!-- Quick Action & Contact Badges -->
-  <p align="center">
-    <a href="https://christianlascuna.me" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Live%20Site-0e75b6?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="mailto:c.lascuna.556171@umindanao.edu.ph">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-d93025?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/clascuna556171" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-clascuna556171-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://www.linkedin.com/in/christian-lascu%C3%B1a-a1ab24420/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-</p>
-
-</div>
-
----
-
-### 💻 System Initialization & Identity
-
-<div align="center">
-<table width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px;">
-<tr>
-<td colspan="2" style="background-color: #161b22; padding: 8px 14px; border-bottom: 1px solid #30363d;">
-  <span style="color: #ff5f56; font-size: 14px;">●</span>&nbsp;
-  <span style="color: #ffbd2e; font-size: 14px;">●</span>&nbsp;
-  <span style="color: #27c93f; font-size: 14px;">●</span>
-  &nbsp;&nbsp;&nbsp;
-  <code><b><font color="#8b949e">bash — neofetch --system-architect</font></b></code>
-</td>
-</tr>
-<tr>
-<!-- Left Column: Custom Ronin ASCII Vector & Identity -->
-<td width="35%" align="center" valign="middle" style="border-right: 1px solid #30363d; padding: 15px;">
-  <img src="ascii_art.svg" alt="Ronin ASCII Art" width="100%" />
-  <br><br>
-  <code><font color="#58A6FF"><b>c_lascuna@AI-Node</b></font></code>
-  <hr style="border: 1px dashed #30363d; margin: 10px 0;">
-  <code><font color="#8b949e">UPTIME:</font> 24/7/365</code><br>
-  <code><font color="#8b949e">SHELL:</font> bash 5.1.16</code>
-</td>
-
-<!-- Right Column: Syntax-Colored JSON & Boot Sequence -->
-<td width="65%" valign="top" style="padding: 15px 20px;">
-
-```json
-{
-  "name": "Christian R. Lascuña",
-  "role": "Full-Stack Dev, Mentor & AI Engineer",
-  "location": "Davao City, Philippines",
-  "mission": "Bridging Web Ecosystems with Local AI Automation"
-}
-```
-
-  <!-- High-Tech Multi-Line Typing Animation -->
-  <a href="https://github.com/clascuna556171">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=800&color=27c93f&background=0D111700&center=false&vCenter=true&width=500&lines=[OK]+OpenCV+Vision+Engine+Mounted;[OK]+Whisper+Speech-to-Text+Ready;[OK]+Laravel+MVC+Connected;[SYSTEM]+All+bottlenecks+automated+out+of+existence.;c_lascuna@tech-generalist:~$+awaiting_command..." alt="Boot Sequence" />
+  &nbsp;
+  <a href="https://github.com/clascuna556171/pollyskill">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/specimen-polyskill-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/specimen-polyskill-light.svg" />
+      <img src="./assets/specimen-polyskill-light.svg" alt="PRJ-02 PolySkill — Static Compiler for Guarded AI-Agent Skills" width="48%" />
+    </picture>
   </a>
-</td>
-</tr>
-</table>
-</div>
-
----
-
-### 💡 Core Engineering Pillars
-
-| 🌐 Full-Stack Architecture | 🤖 Local & Edge AI | ⚡ Systems & Automation |
-| :--- | :--- | :--- |
-| • Clean Laravel & Python MVC<br/>• RESTful API Design & Auth<br/>• Optimized Relational Databases | • Offline Whisper Speech-to-Text<br/>• OpenCV Real-time Face Tracking<br/>• Zero-Cloud-Dependency Pipelines | • High-throughput FFmpeg Pipelines<br/>• Bash Scripting & Linux CLI<br/>• Automated Media Workflows |
-
----
-
-### ⚔️ Featured Project: [RoninClips](https://github.com/clascuna556171/RoninClips)
-
-<table align="center" width="100%">
-<tr>
-<td>
-
-> **RoninClips** is a production-grade, fully offline media processing product architected from the ground up. It seamlessly bridges a resilient **Laravel web layer** with **Python micro-engines** to extract viral hooks, generate animated word-by-word subtitles, and perform real-time speaker face tracking.
-
-```
-   [ Raw Video / Media ]
-            │
-            ▼
- ┌────────────────────────────────────────────────────────┐
- │           Laravel Orchestration Layer (MVC)            │
- └───────┬───────────────────────────────┬────────────────┘
-         │ (Sub-process dispatch)        │ (Job Queue)
-         ▼                               ▼
- ┌──────────────────────────┐    ┌──────────────────────────┐
- │  Local Whisper AI Model  │    │   OpenCV Face Tracker    │
- │ (Word-level timestamps)  │    │  (Dynamic 9:16 centering)│
- └───────┬──────────────────┘    └───────┬──────────────────┘
-         │                               │
-         └───────────────┬───────────────┘
-                         ▼
-       ┌───────────────────────────────────┐
-       │     FFmpeg Processing Engine      │
-       │ (Burn-in captions & render hook)  │
-       └─────────────────┬─────────────────┘
-                         ▼
-            [ 🎬 Viral Output Ready ]
-```
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-👉 **[Explore the RoninClips Repository ➔](https://github.com/clascuna556171/RoninClips)**
+<p align="center">
+  <a href="https://github.com/clascuna556171/shoeboy">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/specimen-shoeboy-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/specimen-shoeboy-light.svg" />
+      <img src="./assets/specimen-shoeboy-light.svg" alt="PRJ-06 The Shoe Boy — Serialized Inventory & Live-Stream POS" width="48%" />
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://github.com/clascuna556171/stxic-halo">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/specimen-halo-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/specimen-halo-light.svg" />
+      <img src="./assets/specimen-halo-light.svg" alt="PRJ-10 STXIC Halo — Local-First Windows HUD for AI Coding Agents" width="48%" />
+    </picture>
+  </a>
+</p>
 
-</td>
-</tr>
-</table>
+<details>
+<summary><sub><b>INDEX // COMPLETE CATALOGED ARTIFACTS (PRJ-03 — PRJ-12)</b> &mdash; Expand full STXIC Labs ledger</sub></summary>
 
----
+<br />
 
-### 🛠️ Tech Stack & Engineering Arsenal
+| Index | Specimen | Status | Architecture Summary | Access |
+| :--- | :--- | :--- | :--- | :--- |
+| `PRJ-03` | **AI Ticket Automator** | `Prototype` | Async FastAPI + Redis/RQ support triage &amp; HMAC-signed webhooks | *Private* |
+| `PRJ-04` | **STXIC Atlas** | `In Development` | Local-first Git impact explorer &amp; cited Ollama diff review | [Repo](https://github.com/clascuna556171/stxic-atlas) &middot; [Demo](https://stxic-atlas.vercel.app) |
+| `PRJ-05` | **Worthi** | `Shipped` | Flutter app adding 24&ndash;72h cooling friction to impulse purchases | [Live](https://worthi-ten.vercel.app/) |
+| `PRJ-07` | **PawfectMatch** | `Shipped` | Pet adoption platform &amp; shelter dashboard (`Laravel 11`, `MySQL`) | [Repo](https://github.com/clascuna556171/pawfect-match) |
+| `PRJ-08` | **CyberNex POS** | `Shipped` | Desktop POS with role separation &amp; ReportLab PDF receipts (`PyQt6`) | [Repo](https://github.com/clascuna556171/CyberNexPOS) |
+| `PRJ-09` | **STXIC Life OS** | `In Development` | Privacy-first student OS: vault, Blackboard automation &amp; Groq/Ollama digest | [Repo](https://github.com/clascuna556171/stxic-os) &middot; [Live](https://stxic-os.vercel.app) |
+| `PRJ-11` | **STXIC.CL** | `Prototype` | Kinetic portfolio with GSAP/Lenis motion &amp; grounded Groq concierge | *Archive* |
+| `PRJ-12` | **STXIC Realm** | `In Development` | Personal social web space with server-validated shared homes | [Repo](https://github.com/clascuna556171/stxic-realm) |
+
+<sub>Explore every interactive glass folder and architectural trade-off at <a href="https://stxic-labs.vercel.app"><b>stxic-labs.vercel.app</b></a>.</sub>
+
+</details>
+
+<br />
 
 <div align="center">
 
-#### 🌐 Core Backend & Full Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,python,django,fastapi,js,nodejs,html,css,tailwind,bootstrap" alt="Backend and Full Stack" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dossier-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/dossier-light.svg" />
+  <img src="./assets/dossier-light.svg" alt="Engineering Arsenal & Verified Credentials Ledger" width="100%" />
+</picture>
 
-#### 🤖 AI, Computer Vision & Media Pipelines
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" alt="AI and CV" />
-  <img src="https://img.shields.io/badge/Whisper_AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
-</p>
+<br /><br />
 
-#### 🗄️ Systems, Databases & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,bash,linux,docker,postman" alt="Systems and DBs" />
-</p>
+<a href="https://christianlascuna.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/colophon-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/colophon-light.svg" />
+    <img src="./assets/colophon-light.svg" alt="Keep it simple — Christian Lascuña (STXIC)" width="100%" />
+  </picture>
+</a>
 
-</div>
-
----
-
-### 📊 Systems Telemetry & GitHub Activity
-
-<div align="center">
-
-  <!-- Live Contribution Waveform Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=clascuna556171&theme=tokyo-night&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=false&border_color=0e75b6" width="95%" alt="Christian's Contribution Graph" />
-
-  <br/><br/>
-
-  <!-- High-Uptime Streak Telemetry Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clascuna556171&theme=tokyonight&border_color=0e75b6&background=0d1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideLabels=c9d1d9&dates=8b949e" width="80%" alt="Christian's Streak Stats" />
-
-</div>
-
----
-
-<div align="center">
-  <sub>⚡ Engineered with precision by <b>Christian R. Lascuña</b> • Always open to high-impact collaborations.</sub>
 </div>

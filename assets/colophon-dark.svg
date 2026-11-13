@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="105" viewBox="0 0 1200 105" role="img" aria-label="STXIC Optical Colophon — Keep it simple.">
+  <defs>
+    <linearGradient id="cOrbit" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#242830" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#8C919B" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.9"/>
+      <stop offset="70%" stop-color="#8C919B" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#242830" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .bead-move { animation: beadDrift 9s ease-in-out infinite; }
+      @keyframes beadDrift {
+        0%, 100% { transform: translateX(-180px); opacity: 0.25; }
+        50% { transform: translateX(180px); opacity: 0.95; }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .bead-move { animation: none !important; }
+      }
+    </style>
+  </defs>
+
+  <path d="M120 30 C340 6 860 6 1080 30" fill="none" stroke="url(#cOrbit)" stroke-width="1.1"/>
+  <circle class="bead-move" cx="600" cy="12" r="2.6" fill="#ECEDEA"/>
+
+  <g transform="translate(586, 28) scale(0.28)">
+    <path d="M84 17H37C24 17 15 26 15 39C15 52 24 61 37 61H64C69 61 72 64 72 69C72 74 69 77 64 77H16V88H64C77 88 86 80 86 68C86 55 77 48 64 48H37C31 48 28 44 28 39C28 34 31 30 37 30H84V17Z" fill="#ECEDEA"/>
+  </g>
+
+  <text x="600" y="76" text-anchor="middle" font-family="Georgia, 'Times New Roman', Didot, 'Bodoni MT', serif" font-size="15.5" font-style="italic" fill="#A5A9B1">Keep it simple. &#8212; Christian Lascu&#241;a (STXIC), Davao City</text>
+  <text x="600" y="95" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" letter-spacing="2.2" fill="#70747D">CHRISTIANLASCUNA.DEV  &#8226;  STXIC-LABS.VERCEL.APP</text>
+</svg>
